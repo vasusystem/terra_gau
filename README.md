@@ -1,2 +1,2 @@
 # terra_gau
-Author is Gaurav Joshi
+Author is Gaurav Joshi Connections
